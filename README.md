@@ -1,0 +1,5 @@
+A multi-spectral myelin annotation tool for machine learning based myelin quantification
+
+Myelin is an essential component of the nervous system and myelin damage causes demyelination diseases. Myelin is a sheet of oligodendrocyte membrane wrapped around the neuronal axon. In the fluorescent images, experts manually identify myelin by co-localization of oligodendrocyte and axonal membranes that fit certain shape and size criteria. Because myelin wriggles along x-y-z axes, machine learning is ideal for its segmentation. However, machine-learning methods, especially convolutional neural networks (CNNs), require a high number of annotated images, which necessitate expert labor. To facilitate myelin annotation, we developed a workflow and a software for myelin ground truth extraction from multi-spectral fluorescent images. Additionally, we shared a set of myelin ground truths annotated using this workflow.
+
+This sofware is licensed under the "Non-Profit Open Software License version 3.0"  (https://opensource.org/licenses/NPOSL-3.0)
